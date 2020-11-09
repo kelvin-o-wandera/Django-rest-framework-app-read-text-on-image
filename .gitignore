@@ -1,0 +1,9 @@
+*.pyc
+*.sqlite3
+heroku_requirements.txt
+media_local
+media_cdn
+static_cdn
+.idea
+!*.mo
+!*.po
